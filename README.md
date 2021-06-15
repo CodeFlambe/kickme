@@ -12,3 +12,7 @@ Augmented reality based shoe try on mobile application.
     * Create [feature branch] based on a [issue] you are assigned and make [PR] to develop.
     * Before starting any work [create a issue] on github project if you are not assigned already (I will setup this next).
     * Naming of the [feature branch] will be the issue number of github.
+    
+## Original Idea For This Project
+    Wanna Kicks by Nike.
+    https://play.google.com/store/apps/details?id=by.wanna.apps.wsneakers&hl=en&gl=US
